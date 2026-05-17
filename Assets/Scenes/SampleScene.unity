@@ -532,6 +532,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1961476115061041549, guid: 277c4c0c1fdcf4526a2f253fe145afae, type: 3}
+      propertyPath: Scrap
+      value: 
+      objectReference: {fileID: 996405311}
+    - target: {fileID: 1961476115061041549, guid: 277c4c0c1fdcf4526a2f253fe145afae, type: 3}
       propertyPath: 'scrapPrefabs.Array.data[0]'
       value: 
       objectReference: {fileID: 996405311}
